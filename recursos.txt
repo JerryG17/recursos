@@ -1,4 +1,4 @@
-Páginas para hacer diseños:
+PÃ¡ginas para hacer diseÃ±os:
 
 1. https://infogram.com
 2. https://infograph.venngage.com
@@ -20,6 +20,7 @@ Paleta de colores
 Iconos
 
 1. https://icon-icons.com/es/
+2. https://materializecss.com/
 
 
 Web para todos:
@@ -45,7 +46,7 @@ Ejemplos:
 
 
 
-Páginas para maquetado:
+PÃ¡ginas para maquetado:
 
 1 https://marvelapp.com/
 2 http://mockupbuilder.com/
